@@ -1,0 +1,2 @@
+# ImgScaner
+## Tesseract is used
